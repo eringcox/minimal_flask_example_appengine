@@ -1,7 +1,7 @@
-Note that this button will always open the repo "https://github.com/rctatman/minimal_flask_example_appengine" unless you fork this repo and replace that URL in the button code with a different one. You can clone any repo you like into your Cloud Shell environment by running  `git clone [GITHUB-URL]` from Cloud Shell, however. 
+Note that this button will always open the repo "https://github.com/eringcox/minimal_flask_example_appengine" unless you fork this repo and replace that URL in the button code with a different one. You can clone any repo you like into your Cloud Shell environment by running  `git clone [GITHUB-URL]` from Cloud Shell, however. 
 
 <p>
-  <a target="__blank" href="https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/rctatman/minimal_flask_example_appengine&page=editor&open_in_editor=main.py"><img src="https://user-images.githubusercontent.com/1699357/33573952-bcc79140-d937-11e7-80e1-f3e8f3733624.png"/></a>
+  <a target="__blank" href="https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/eringcox/minimal_flask_example_appengine&page=editor&open_in_editor=main.py"><img src="https://user-images.githubusercontent.com/1699357/33573952-bcc79140-d937-11e7-80e1-f3e8f3733624.png"/></a>
 </p>
 
 ___
@@ -10,7 +10,7 @@ Here's a quick guide to each of the files and information whether you need to ed
 
 ## Files you'll put the code you wrote yesterday into 
 
-[In yesterday's notebook](https://www.kaggle.com/rtatman/careercon-making-an-app-from-your-modeling-code), as the very last exercise we wrote two cells of code, each of which will be a single file. 
+[In yesterday's notebook](https://www.kaggle.com/eringcox/careercon-making-an-app-from-your-modeling-code), as the very last exercise we wrote two cells of code, each of which will be a single file. 
 
 * **serve.py**: This is the file you should put the code from the first cell in; this is where you'll define the functions that will read in your trained models.
 * **main.py**: This is where you'll put the code from your second notebook in. This is what will define the behaviour of our different endpoints.  
